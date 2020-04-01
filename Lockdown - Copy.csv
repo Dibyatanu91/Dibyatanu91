@@ -1,0 +1,134 @@
+COUNTRY,DATE_IMPLEMENTED,CATEGORY,MEASURE,COLOR
+Spain,03/03/20,Social distancing,Limit public gatherings,#985740
+Spain,03/09/20,Social distancing,Schools closure,#985740
+Spain,03/09/20,Public health measures,General recommendations,#985740
+Spain,03/09/20,Public health measures,General recommendations,#985740
+Spain,03/10/20,Social distancing,Limit public gatherings,#985740
+Spain,03/11/20,Movement restrictions,International flights suspension,#ffff00
+Spain,03/12/20,Public health measures,Strengthening the public health system,#985740
+Spain,03/12/20,Social and economic measures,Economic measures,#985740
+Spain,03/13/20,Social and economic measures,State of emergency declared,#985740
+Spain,03/13/20,Lockdown,Full lockdown,#ff0000
+Spain,03/15/20,Movement restrictions,Border closure,#a55740
+Spain,03/15/20,Movement restrictions,Border checks,#a55740
+Spain,03/15/20,Public health measures,General recommendations,#a55740
+Spain,03/15/20,Public health measures,Strengthening the public health system,#a55740
+Spain,03/16/20,Social distancing,Public services closure,#bf5740
+Spain,03/16/20,Social distancing,Limit public gatherings,#bf5740
+Spain,03/16/20,Lockdown,Partial Region lockdown,#bf5740
+Spain,03/17/20,Public health measures,Strengthening the public health system,#d15740
+Spain,03/17/20,Social and economic measures,Economic measures,#d15740
+Spain,03/19/20,Public health measures,Strengthening the public health system,#c63340
+Spain,03/23/20,Movement restrictions,Border closure,#c61e40
+Spain,03/24/20,Movement restrictions,International flights suspension,#ffff00
+Spain,03/24/20,Social distancing,Public services closure,#c61e25
+Italy,01/22/20,Social and economic measures,Emergency administrative structures activated or established,#a05740
+Italy,01/23/20,Public health measures,Introduction of quarantine policies,#a05740
+Italy,01/27/20,Public health measures,Awareness campaigns,#a05740
+Italy,01/31/20,Social and economic measures,State of emergency declared,#b05740
+Italy,01/31/20,Movement restrictions,International flights suspension,#ffff00
+Italy,02/21/20,Social distancing,Schools closure,#b05740
+Italy,02/21/20,Public health measures,Introduction of quarantine policies,#b05740
+Italy,02/23/20,Lockdown,Full lockdown,#ff0000
+Italy,02/25/20,Social distancing,Limit public gatherings,#bf5740
+Italy,03/04/20,Movement restrictions,Checkpoints within the country,#bf5740
+Italy,03/08/20,Lockdown,Partial Region lockdown,#bf5740
+Italy,03/08/20,Lockdown,Partial Region lockdown,#c65740
+Italy,03/09/20,Social distancing,Limit public gatherings,#c65740
+Italy,03/11/20,Public health measures,Introduction of quarantine policies,#c65740
+Italy,03/11/20,Social distancing,Public services closure,#d15740
+Italy,03/13/20,Social and economic measures,Limit product imports/exports,#d15740
+Italy,03/16/20,Public health measures,Strengthening the public health system,#d15740
+Italy,03/17/20,Social and economic measures,Economic measures,#c63340
+Italy,03/17/20,Public health measures,Strengthening the public health system,#c63340
+Italy,03/17/20,Social distancing,Changes in prison-related policies,#c63340
+Italy,03/17/20,Public health measures,Strengthening the public health system,#c61e40
+Italy,03/17/20,Social and economic measures,Economic measures,#c61e40
+Italy,03/20/20,Lockdown,Partial Region lockdown,#c61e40
+Italy,03/20/20,Social and economic measures,Military deployment,#ff0000
+Italy,03/20/20,Social and economic measures,Military deployment,#ff0000
+Italy,03/20/20,Social distancing,Public services closure,#c61e25
+Italy,03/23/20,Movement restrictions,Checkpoints within the country,#c61e25
+Italy,03/23/20,Lockdown,Full lockdown,#ff0000
+Italy,03/23/20,Lockdown,Partial Region lockdown,#ff0000
+India,01/25/20,Public health measures,Health screenings in airports and border crossings,#ff0000
+India,01/25/20,Public health measures,Strengthening the public health system,#ff0000
+India,02/26/20,Public health measures,Introduction of quarantine policies,#ff0000
+India,02/26/20,Public health measures,Introduction of quarantine policies,#ff0000
+India,02/26/20,Movement restrictions,Visa restrictions,#ff0000
+India,03/02/20,Movement restrictions,Visa restrictions,#ff0000
+India,03/03/20,Movement restrictions,Visa restrictions,#ff0000
+India,03/03/20,Public health measures,Health screenings in airports and border crossings,#ff0000
+India,03/05/20,Public health measures,Health screenings in airports and border crossings,#ff0000
+India,03/05/20,Social distancing,Limit public gatherings,#ff0000
+India,03/06/20,Movement restrictions,Visa restrictions,#ff0000
+India,03/06/20,Public health measures,Health screenings in airports and border crossings,#ff0000
+India,03/10/20,Movement restrictions,Additional health/documents requirements upon arrival,#ff0000
+India,03/10/20,Public health measures,Introduction of quarantine policies,#ff0000
+India,03/10/20,Movement restrictions,Visa restrictions,#ff0000
+India,03/10/20,Public health measures,General recommendations,#ff0000
+India,03/11/20,Public health measures,Introduction of quarantine policies,#ff0000
+India,03/11/20,Movement restrictions,Border checks,#ff0000
+India,03/13/20,Movement restrictions,Visa restrictions,#ff0000
+India,03/13/20,Public health measures,Introduction of quarantine policies,#ff0000
+India,03/13/20,Movement restrictions,Border closure,#ff0000
+India,03/13/20,Public health measures,Health screenings in airports and border crossings,#ff0000
+India,03/14/20,Social and economic measures,Emergency administrative structures activated or established,#ff0000
+India,03/15/20,Social and economic measures,Economic measures,#ff0000
+India,03/15/20,Movement restrictions,Border closure,#ff0000
+India,03/15/20,Movement restrictions,Border closure,#ff0000
+India,03/16/20,Lockdown,Partial Region lockdown,#ff0000
+India,03/17/20,Movement restrictions,International flights suspension,#ffff00
+India,03/18/20,Public health measures,Introduction of quarantine policies,#ff0000
+India,03/18/20,Movement restrictions,Visa restrictions,#ff0000
+India,03/20/20,Public health measures,Introduction of quarantine policies,#ff0000
+India,03/20/20,Public health measures,Testing policy,#ff0000
+India,03/22/20,Movement restrictions,International flights suspension,#ffff00
+United States of America,01/21/20,Social and economic measures,Emergency administrative structures activated or established,#a05740
+United States of America,01/22/20,Public health measures,Strengthening the public health system,#a05740
+United States of America,01/31/20,Social and economic measures,State of emergency declared,#a05740
+United States of America,01/31/20,Movement restrictions,Visa restrictions,#a05740
+United States of America,02/04/20,Public health measures,Strengthening the public health system,#a05740
+United States of America,02/15/20,Public health measures,Strengthening the public health system,#a05740
+United States of America,02/27/20,Social and economic measures,Emergency administrative structures activated or established,#a05740
+United States of America,02/28/20,Public health measures,Awareness campaigns,#a05740
+United States of America,03/01/20,Social and economic measures,State of emergency declared,#a55740
+United States of America,03/02/20,Public health measures,Strengthening the public health system,#a55740
+United States of America,03/02/20,Social and economic measures,Economic measures,#a55740
+United States of America,03/06/20,Public health measures,Strengthening the public health system,#a55740
+United States of America,03/08/20,Public health measures,Testing policy,#a55740
+United States of America,03/11/20,Social distancing,Limit public gatherings,#b05740
+United States of America,03/11/20,Social and economic measures,Economic measures,#b05740
+United States of America,03/13/20,Social and economic measures,State of emergency declared,#b05740
+United States of America,03/13/20,Social distancing,Schools closure,#b05740
+United States of America,03/13/20,Public health measures,Strengthening the public health system,#bf5740
+United States of America,03/13/20,Public health measures,Strengthening the public health system,#bf5740
+United States of America,03/13/20,Social and economic measures,Emergency administrative structures activated or established,#bf5740
+United States of America,03/14/20,Movement restrictions,Visa restrictions,#bf5740
+United States of America,03/14/20,Public health measures,Health screenings in airports and border crossings,#c65740
+United States of America,03/14/20,Movement restrictions,Visa restrictions,#c65740
+United States of America,03/15/20,Social and economic measures,Economic measures,#c65740
+United States of America,03/15/20,Social and economic measures,Emergency administrative structures activated or established,#c65740
+United States of America,03/16/20,Public health measures,General recommendations,#d15740
+United States of America,03/16/20,Public health measures,Strengthening the public health system,#d15740
+United States of America,03/16/20,Public health measures,Awareness campaigns,#d15740
+United States of America,03/17/20,Public health measures,General recommendations,#d15740
+United States of America,03/17/20,Public health measures,Awareness campaigns,#d15740
+United States of America,03/17/20,Public health measures,Strengthening the public health system,#c63340
+United States of America,03/18/20,Social and economic measures,Economic measures,#c63340
+United States of America,03/18/20,Public health measures,Strengthening the public health system,#c63340
+United States of America,03/18/20,Social and economic measures,Economic measures,#c63340
+United States of America,03/18/20,Public health measures,Awareness campaigns,#c63340
+United States of America,03/18/20,Public health measures,Strengthening the public health system,#c61e40
+United States of America,03/20/20,Movement restrictions,Border closure,#c61e40
+United States of America,03/20/20,Social and economic measures,Economic measures,#c61e40
+United States of America,03/20/20,Social and economic measures,State of emergency declared,#c61e40
+United States of America,03/22/20,Social and economic measures,State of emergency declared,#c61e40
+United States of America,03/22/20,Social and economic measures,Military deployment,#ff0000
+United States of America,03/23/20,Public health measures,Strengthening the public health system,#c61e25
+United States of America,03/23/20,Public health measures,Strengthening the public health system,#c61e25
+United States of America,03/24/20,Social and economic measures,State of emergency declared,#c61e25
+United States of America,03/24/20,Social and economic measures,State of emergency declared,#c61e25
+United States of America,03/25/20,Social and economic measures,State of emergency declared,#c61e25
+United States of America,03/25/20,Social and economic measures,State of emergency declared,#c61e25
+United States of America,03/25/20,Public health measures,Strengthening the public health system,#c61e25
