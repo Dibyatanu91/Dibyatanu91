@@ -1,0 +1,98 @@
+COUNTRY,DATE_IMPLEMENTED,CATEGORY,MEASURE
+Spain,03/03/2020,Social distancing,Limit public gatherings
+Spain,09/03/2020,Social distancing,Schools closure 
+Spain,09/03/2020,Public health measures,General recommendations
+Spain,09/03/2020,Public health measures,General recommendations
+Spain,10/03/2020,Social distancing,Limit public gatherings
+Spain,11/03/2020,Movement restrictions,International flights suspension
+Spain,12/03/2020,Public health measures,Strengthening the public health system
+Spain,12/03/2020,Social and economic measures,Economic measures
+Spain,13/03/2020,Social and economic measures,State of emergency declared
+Spain,13/03/2020,Lockdown,Full lockdown
+Spain,15/03/2020,Movement restrictions,Border closure 
+Spain,15/03/2020,Movement restrictions,Border checks 
+Spain,15/03/2020,Public health measures,General recommendations
+Spain,15/03/2020,Public health measures,Strengthening the public health system
+Spain,16/03/2020,Social distancing,Public services closure 
+Spain,16/03/2020,Social distancing,Limit public gatherings
+Spain,16/03/2020,Lockdown,Partial lockdown
+Spain,17/03/2020,Public health measures,Strengthening the public health system
+Spain,17/03/2020,Social and economic measures,Economic measures
+Spain,19/03/2020,Public health measures,Strengthening the public health system
+Spain,23/03/2020,Movement restrictions,Border closure 
+Spain,24/03/2020,Movement restrictions,International flights suspension
+Spain,24/03/2020,Social distancing,Public services closure 
+Italy,22/01/2020,Social and economic measures,Military deployment
+Italy,23/01/2020,Public health measures,Introduction of quarantine policies
+Italy,27/01/2020,Public health measures,Awareness campaigns
+Italy,31/01/2020,Social and economic measures,State of emergency declared
+Italy,31/01/2020,Movement restrictions,International flights suspension
+Italy,21/02/2020,Social distancing,Schools closure 
+Italy,21/02/2020,Public health measures,Introduction of quarantine policies
+Italy,23/02/2020,Lockdown,Full lockdown
+Italy,25/02/2020,Social distancing,Limit public gatherings
+Italy,04/03/2020,Movement restrictions,Checkpoints within the country
+Italy,08/03/2020,Lockdown,Partial lockdown
+Italy,08/03/2020,Lockdown,Partial lockdown
+Italy,09/03/2020,Social distancing,Limit public gatherings
+Italy,11/03/2020,Public health measures,Introduction of quarantine policies
+Italy,11/03/2020,Social distancing,Public services closure 
+Italy,13/03/2020,Social and economic measures,Limit product imports/exports
+Italy,16/03/2020,Public health measures,Strengthening the public health system
+Italy,17/03/2020,Social and economic measures,Economic measures
+Italy,17/03/2020,Public health measures,Strengthening the public health system
+Italy,17/03/2020,Social distancing,Changes in prison-related policies
+Italy,17/03/2020,Public health measures,Strengthening the public health system
+Italy,17/03/2020,Social and economic measures,Economic measures
+Italy,20/03/2020,Lockdown,Partial lockdown
+Italy,20/03/2020,Social and economic measures,Military deployment
+Italy,20/03/2020,Social and economic measures,Military deployment
+Italy,20/03/2020,Social distancing,Public services closure 
+Italy,23/03/2020,Movement restrictions,Checkpoints within the country
+Italy,23/03/2020,Lockdown,Full lockdown
+Italy,23/03/2020,Lockdown,Partial lockdown
+United States of America,21/01/2020,Social and economic measures,Emergency administrative structures activated or established
+United States of America,22/01/2020,Public health measures,Strengthening the public health system
+United States of America,31/01/2020,Social and economic measures,State of emergency declared
+United States of America,31/01/2020,Movement restrictions,Visa restrictions
+United States of America,04/02/2020,Public health measures,Strengthening the public health system
+United States of America,15/02/2020,Public health measures,Strengthening the public health system
+United States of America,27/02/2020,Social and economic measures,Emergency administrative structures activated or established
+United States of America,28/02/2020,Public health measures,Awareness campaigns
+United States of America,01/03/2020,Social and economic measures,State of emergency declared
+United States of America,02/03/2020,Public health measures,Strengthening the public health system
+United States of America,02/03/2020,Social and economic measures,Economic measures
+United States of America,06/03/2020,Public health measures,Strengthening the public health system
+United States of America,08/03/2020,Public health measures,Testing policy
+United States of America,11/03/2020,Social distancing,Limit public gatherings
+United States of America,11/03/2020,Social and economic measures,Economic measures
+United States of America,13/03/2020,Social and economic measures,State of emergency declared
+United States of America,13/03/2020,Social distancing,Schools closure 
+United States of America,13/03/2020,Public health measures,Strengthening the public health system
+United States of America,13/03/2020,Public health measures,Strengthening the public health system
+United States of America,13/03/2020,Social and economic measures,Emergency administrative structures activated or established
+India,05/03/2020,Public health measures,Health screenings in airports and border crossings
+India,05/03/2020,Social distancing,Limit public gatherings
+India,06/03/2020,Movement restrictions,Visa restrictions
+India,06/03/2020,Public health measures,Health screenings in airports and border crossings
+India,10/03/2020,Movement restrictions,Additional health/documents requirements upon arrival
+India,10/03/2020,Public health measures,Introduction of quarantine policies
+India,10/03/2020,Movement restrictions,Visa restrictions
+India,10/03/2020,Public health measures,General recommendations
+India,11/03/2020,Public health measures,Introduction of quarantine policies
+India,11/03/2020,Movement restrictions,Border checks 
+India,13/03/2020,Movement restrictions,Visa restrictions
+India,13/03/2020,Public health measures,Introduction of quarantine policies
+India,13/03/2020,Movement restrictions,Border closure 
+India,13/03/2020,Public health measures,Health screenings in airports and border crossings
+India,14/03/2020,Social and economic measures,Emergency administrative structures activated or established
+India,15/03/2020,Social and economic measures,Economic measures
+India,15/03/2020,Movement restrictions,Border closure 
+India,15/03/2020,Movement restrictions,Border closure 
+India,16/03/2020,Lockdown,Partial lockdown
+India,17/03/2020,Movement restrictions,International flights suspension
+India,18/03/2020,Public health measures,Introduction of quarantine policies
+India,18/03/2020,Movement restrictions,Visa restrictions
+India,20/03/2020,Public health measures,Introduction of quarantine policies
+India,20/03/2020,Public health measures,Testing policy
+India,22/03/2020,Movement restrictions,International flights suspension
